@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">FinalExam</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="label_home">Home</string>
+    <string name="label_selected_country">Selected country</string>
+    <string name="label_home_pois">POIs</string>
+
+    <string-array name="countries">
+        <item>Select a country</item>
+        <item>Canada</item>
+        <item>USA</item>
+        <item>England</item>
+    </string-array>
 </resources>
